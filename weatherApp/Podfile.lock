@@ -1,0 +1,34 @@
+PODS:
+  - Kingfisher (7.11.0)
+  - lottie-ios (4.4.1)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - lottie-ios
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - lottie-ios
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: b9c985d864d43515f404f1ef4a8ce7d802ace3ac
+  lottie-ios: e047b1d2e6239b787cc5e9755b988869cf190494
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+
+PODFILE CHECKSUM: 64df9ad4fe81fb4ab14f1635d1a9f16aa984ed7e
+
+COCOAPODS: 1.14.3
